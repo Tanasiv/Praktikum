@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="uk-UA" original="Tanasiv">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1070377016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DemoTabelle</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DemoTabelle - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1070377016 - Field 3168444338 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DemoTabelle - Field Address - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1070377016 - Field 2306852000 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address 2</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DemoTabelle - Field Address 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1070377016 - Field 714791889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>City</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DemoTabelle - Field City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1070377016 - Field 1302820932 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date of Birth</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DemoTabelle - Field Date of Birth - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1070377016 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DemoTabelle - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1070377016 - Field 966287263 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name 2</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DemoTabelle - Field Name 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1070377016 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DemoTabelle - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1070377016 - Field 2818714647 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Postcode</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DemoTabelle - Field Postcode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 72314273 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BonusTabelle</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sales Transactions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 72314273 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sales Transactions - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 72314273 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sales Transactions - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 72314273 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sales Transactions - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 72314273 - Field 2826377252 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Person Code</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sales Transactions - Field Sales Person Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 72314273 - Field 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Sales Transactions - Field Type - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
